@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit!
+=======
+This is again a commit commit!
+>>>>>>> b96f6e5 (updated via feature)
 
 and this is commit #2!
